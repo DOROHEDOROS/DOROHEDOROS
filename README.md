@@ -5,4 +5,4 @@
 </div>
 <p align="center"> </p>
 <p align="center"> ──────────────────────────────────────── </p>
-<p align="center"><a href= "https://guns.lol/erling">guns.lol</a>      <a href= "https://rentry.co/noi-">rentry</a>      <a href= "https://github.com/toewrestlergod3000">main</a>   (˶˃ᆺ˂˶)</p>
+<p align="center"><a href= "https://guns.lol/birdofprey">guns.lol</a>      <a href= "https://rentry.co/noi-">rentry</a>      <a href= "https://github.com/toewrestlergod3000">main</a>   (˶˃ᆺ˂˶)</p>
